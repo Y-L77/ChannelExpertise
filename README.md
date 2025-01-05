@@ -37,6 +37,9 @@ If you're interested in contributing I'd gladly look over pull requests but this
 7. gamification
 8. user feedback
 
+you can contact me yipeng.dev@gmail.com for any questions
+
+
 
 
 
